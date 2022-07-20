@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.1",
+    "events": "^3.3.0",
+    "fancy-log": "^2.0.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.4.6",
+    "util": "^0.12.4"
+  },
+  "name": "boilerplate",
+  "description": "",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acolectiv/boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acolectiv/boilerplate/issues"
+  },
+  "homepage": "https://github.com/Acolectiv/boilerplate#readme"
+}
