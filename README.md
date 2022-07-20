@@ -1,4 +1,4 @@
-# Boilerplate Discord Bot
+# discord-bot-boilerpate
 
 A boilerplate of a Discord.js Bot Handler.
 
